@@ -1,0 +1,6 @@
+{
+  "name": "XAUUSD Scalping AI Pro",
+  "description": "Professional all-timeframe AI scalping signal engine for Gold (XAUUSD) with real-time multi-timeframe analysis, smart money concepts, and risk management.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
